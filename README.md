@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 map.html
 <html lang="en">
 <head>
@@ -38,7 +39,7 @@ map.html
         <font color="'blue"><b>J.Ivan Abishek Benhannan (25006144)</b></font>
     </h3>
     <center>
-        <img src="Screenshot 2025-12-18 225626.png" usemap="#MyCity" height="610" width="1450">
+        <img src="map.png" usemap="#MyCity" height="610" width="1450">
         <map name="MyCity">
             <area shape="circle" coords="'583,305,109" href="home.html" title="My Home Town">
               <area shape="circle" coords="'700,305,109" href="temple.html" title="Temple">
